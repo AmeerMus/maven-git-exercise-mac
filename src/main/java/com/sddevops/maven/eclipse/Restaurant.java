@@ -4,5 +4,7 @@ public class Restaurant {
 	private int id;
 	private String name;
 	private String address;
+	private int number;
+	
 
 }
